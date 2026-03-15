@@ -24,7 +24,7 @@ TOKEN = "8621913179:AAHoiUHkluY_9PHlA3GI8VTeI0zrKAEeXmU"
 ADMIN_ID = 7656295632
 
 # GitHub настройки (создайте токен!)
-GITHUB_TOKEN = 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 "ВАШ_НОВЫЙ_ТОКЕН"  # Замените на ваш токен!
+GITHUB_TOKEN = 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  # Замените на ваш токен!
 GITHUB_REPO = "Difoxin/palladium-bot"
 GITHUB_URL = f"https://api.github.com/repos/{GITHUB_REPO}/contents/palladium.db"
 
